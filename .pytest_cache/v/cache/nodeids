@@ -1,0 +1,8 @@
+[
+  "tests/test_engine.py::test_baseline_synth_non_silent",
+  "tests/test_engine.py::test_cli_wav_roundtrip",
+  "tests/test_engine.py::test_harmonia_encode_fallback_regenerates",
+  "tests/test_engine.py::test_harmonia_falls_back",
+  "tests/test_engine.py::test_non_ascii_is_safe",
+  "tests/test_engine.py::test_registry_lists_baseline"
+]
